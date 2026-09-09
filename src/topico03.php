@@ -14,8 +14,9 @@ echo "<br>Nome = $nome";
 echo '<br>Nome = $nome';
 $cor="green";
 echo "<p style='color:$cor'>$nome</p>";
-?>
+
 /*
 valor = 5124
 valor = 0.784
 */
+?>
